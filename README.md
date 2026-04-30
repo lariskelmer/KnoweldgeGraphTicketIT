@@ -3,12 +3,12 @@
 # Análise de Arquiteturas Multi-Agentes e LLMs aplicadas à Automação e Suporte
 
 ## Membros do Grupo
-- Larissa Kelmer
+- Larissa Kelmer de Menezes Silva
 - Marília Costa Muniz
-- Samuel Amico
+- Samuel Amico Fidelis
 
 ## Descrição do Projeto
-Este projeto consiste em um estudo de caso prático focado na extração e estruturação de conhecimento a partir de literatura científica utilizando ferramentas de análise de dados (EdgeQuake e Graphify). O objetivo é investigar como soluções baseadas em Large Language Models (LLMs) e Sistemas Multi-Agentes estão sendo aplicadas para resolver problemas complexos na automação de processos de suporte e gestão.
+Este projeto consiste em um estudo de caso prático focado na extração e estruturação de conhecimento a partir de literatura científica utilizando ferramentas de análise de dados (EdgeQuake,Graphify,GraphRag e Notebook LM). o objetivo principal do trabalho é avaliar e comparar a eficácia de diferentes abordagens de RAG (Retrieval-Augmented Generation) na melhoria da compreensão e resposta de LLMs sobre domínios complexos não vistos no treinamento original.
 
 ## Tema Escolhido
 O estudo de caso vincula-se diretamente aos seguintes temas da disciplina:
@@ -22,7 +22,7 @@ O estudo de caso vincula-se diretamente aos seguintes temas da disciplina:
 **Por que isso é relevante?** A aplicação de ferramentas de extração permite transformar um grande volume de texto não estruturado em insights claros e grafos de conhecimento, facilitando o entendimento de como arquiteturas complexas (como RAG e protocolos Multi-Agentes) interagem para resolver problemas da vida real de forma automatizada.
 
 ## Abordagem
-Neste trabalho, as ferramentas Graphify e EdgeQuake foram utilizadas como soluções investigativas e meios para extrair valor da base de dados, e não como um fim em si mesmas. Inserimos o corpus de artigos científicos nas ferramentas para processamento lógico e geração de conexões de conhecimento técnico, promovendo uma análise comparativa:
+Neste trabalho, as ferramentas EdgeQuake,Graphify,GraphRag e Notebook LM foram utilizadas como soluções investigativas e meios para extrair valor da base de dados, e não como um fim em si mesmas. Inserimos o corpus de artigos científicos nas ferramentas para processamento lógico e geração de conexões de conhecimento técnico, promovendo uma análise comparativa:
 - **Graphify:** Utilizado para uma extração profunda e inferência semântica ("Bottom-Up").
 - **EdgeQuake:** Utilizado para um mapeamento taxonômico e direto ("Top-Down").
 
