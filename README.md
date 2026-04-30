@@ -2,9 +2,9 @@
 
 # Data-Driven Knowledge Graph com LLM
 
-**## Disciplina:** TÓPICOS ESPECIAIS EM PROCESSAMENTO INTELIGENTE DA INFORMAÇÃO — PPGEEC2327
+**Disciplina:** TÓPICOS ESPECIAIS EM PROCESSAMENTO INTELIGENTE DA INFORMAÇÃO — PPGEEC2327
 
-**## Professor:** Ivanovitch Medeiros Dantas da Silva
+**Professor:** Ivanovitch Medeiros Dantas da Silva
 
 ## Membros do Grupo
 - Larissa Kelmer de Menezes Silva
