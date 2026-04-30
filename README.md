@@ -4,7 +4,7 @@
 
 ## Membros do Grupo
 - Larissa Kelmer
-- Marília Muniz
+- Marília Costa Muniz
 - Samuel Amico
 
 ## Descrição do Projeto
