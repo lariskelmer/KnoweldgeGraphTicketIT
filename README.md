@@ -1,6 +1,12 @@
-# KnoweldgeGraphTicketIT
+# Trabalho 2 - Parte 2 
 
-# Análise de Arquiteturas Multi-Agentes e LLMs aplicadas à Automação e Suporte
+# Data-Driven Knowledge Graph com LLM
+
+## Disciplina: 
+TÓPICOS ESPECIAIS EM PROCESSAMENTO INTELIGENTE DA INFORMAÇÃO — PPGEEC2327
+
+# Professor:
+Ivanovitch Medeiros Dantas da Silva
 
 ## Membros do Grupo
 - Larissa Kelmer de Menezes Silva
@@ -22,18 +28,17 @@ O estudo de caso vincula-se diretamente aos seguintes temas da disciplina:
 **Por que isso é relevante?** A aplicação de ferramentas de extração permite transformar um grande volume de texto não estruturado em insights claros e grafos de conhecimento, facilitando o entendimento de como arquiteturas complexas (como RAG e protocolos Multi-Agentes) interagem para resolver problemas da vida real de forma automatizada.
 
 ## Abordagem
-Neste trabalho, as ferramentas EdgeQuake,Graphify,GraphRag e Notebook LM foram utilizadas como soluções investigativas e meios para extrair valor da base de dados, e não como um fim em si mesmas. Inserimos o corpus de artigos científicos nas ferramentas para processamento lógico e geração de conexões de conhecimento técnico, promovendo uma análise comparativa:
+Neste estudo, as ferramentas EdgeQuake, Graphify, GraphRag e Notebook LM atuaram como instrumentos investigativos para a extração de valor da base de dados, não sendo o escopo final da pesquisa. O corpus de artigos científicos foi submetido a essas plataformas para viabilizar o processamento lógico e a estruturação de conexões de conhecimento técnico, permitindo a seguinte análise comparativa de suas abordagens:
 - **Graphify:** Utilizado para uma extração profunda e inferência semântica ("Bottom-Up").
 - **EdgeQuake:** Utilizado para um mapeamento taxonômico e direto ("Top-Down").
+- **GraphRag:** 
+- **Notebook LM:** 
 
 ## Base de Dados (Fontes)
 Foram utilizados dados realistas baseados nos seguintes artigos científicos disponibilizados:
 1. **STELLAR:** Arquitetura estruturada, confiável e explicável baseada em Grafos Acíclicos Direcionados (DAG) e liderada por LLMs para suporte ao cliente.
-2. **Smart Serve:** Sistema de tickets impulsionado por IA para redefinir o suporte ao cliente utilizando modelos como o Gemini.
-3. **TickIt:** Framework baseado em grandes modelos de linguagem focado no escalonamento e roteamento automatizado de tickets.
-4. **LLM Agents for Smart City Management:** Uso de sistemas multi-agentes para suportar a tomada de decisões na gestão urbana inteligente.
-5. **LLM-Based Multi-Agent Architecture for Transport Network Automation:** Arquitetura multi-agente utilizando os protocolos MCP (Model Context Protocol) e A2A (Agent-to-Agent) para automação de redes de transporte.
-6. **AIMT Agent:** Sistema de suporte acadêmico conversacional integrado ao Moodle.
+2. **TickIt:** Framework baseado em grandes modelos de linguagem focado no escalonamento e roteamento automatizado de tickets.
+3. **LLM Agents for Smart City Management:** Uso de sistemas multi-agentes para suportar a tomada de decisões na gestão urbana inteligente.
 
 ## Evidências e Insights
 Abaixo estão exemplos de insights técnicos extraídos dos textos através da análise automatizada:
