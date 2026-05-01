@@ -4,7 +4,10 @@
 
 **Professor:** Ivanovitch Medeiros Dantas da Silva
 
-**Discentes:** Marília Muniz, Larissa Kelmer e Samuel Amico 
+**Discentes:** Larissa Kelmer de Menezes Silva
+Marília Costa Muniz
+Samuel Amico Fidelis
+
 
 ---
 
