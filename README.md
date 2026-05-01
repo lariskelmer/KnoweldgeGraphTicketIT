@@ -1,8 +1,10 @@
 # Trabalho 02 - Parte 02: Data-Driven Knowledge Graph com LLM
 
-**Disciplina:** TÓPICOS ESPECIAIS EM PROCESSAMENTO INTELIGENTE DA INFORMAÇÃO – PPGEEC2327 [1]
-**Professor:** Ivanovitch Medeiros Dantas da Silva [1]
-**Discentes:** Marília Muniz, Larissa Kelmer e Samuel Amico [1]
+**Disciplina:** TÓPICOS ESPECIAIS EM PROCESSAMENTO INTELIGENTE DA INFORMAÇÃO – PPGEEC2327.
+
+**Professor:** Ivanovitch Medeiros Dantas da Silva
+
+**Discentes:** Marília Muniz, Larissa Kelmer e Samuel Amico 
 
 ---
 
